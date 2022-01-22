@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wjc1512
 - 👀 I’m interested in Maths and Technology
-- 🌱 I’m currently learning Computer Science in Data Science
+- 🌱 I’m currently learning Computer Science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
