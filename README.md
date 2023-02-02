@@ -1,1 +1,1 @@
-<div id = 'header' align='center'> </div>
+<div id = 'header' align='center'> <img src="GitHubLogo.png"> </div>
